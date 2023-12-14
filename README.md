@@ -140,13 +140,6 @@ expect it to reflect the data you added above.
 `global` scope in the `lib/sql_queries.py` file. For example, to pass the first
 test, your Python string should look like this:
 
-```py
-select_all_female_bears_return_name_and_age = """
-    SELECT
-        bears.name,
-        bears.age
-    FROM bears
-    WHERE sex='F';
 """
 ```
 
