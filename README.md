@@ -134,7 +134,7 @@ about them, but make sex either 'M' or 'F'):
 
 Get the tests in `testing/select_test.py` to pass. Note that for this section, the
 database will be seeded with external data from the `lib/seed.sql` file so don't
-expect it to reflect the data you added above.
+expect it to reflect the data you added abov.
 
 **Note**: Since it's a Python file, write your queries as strings in the
 `global` scope in the `lib/sql_queries.py` file. For example, to pass the first
